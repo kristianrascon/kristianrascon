@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer Interested in Entry Level Roles for Summer 2023
 -----------------------------------------------------------------
 
-I am currently a senior at Arizona State University pursuing a degree in Computer Science with an expected graduation date of May 2023. During this past Summer (2022), I interned at USAA in a Software Engineer Intern role. In this role I was able to gain valuable insights into the full development lifecycle in an agile environment: planning -> researching -> developing -> unit testing -> integration testing -> merging contribution to prod environment. I was also able to grow my knowledge in developing REST APIs utilizing Java Spring Boot and integrating existing large back-end systems with vendor products. My previous Summer (2021), I interned at Sandia National Laboratories in a Corporate Web Design and Development Intern role. In this role I contributed to the development of Sandia's External Web UI while conforming to ADA Section 508 Accessibility Requirements.
+I am currently a senior at Arizona State University pursuing a degree in Computer Science with an expected graduation date of May 2023. 
+
+During this past Summer (2022), I interned at USAA in a Software Engineer Intern role. In this role I was able to gain valuable insights into the full development lifecycle in an agile environment: planning -> researching -> developing -> unit testing -> integration testing -> merging contribution to prod environment. I was also able to grow my knowledge in developing REST APIs utilizing Java Spring Boot and integrating existing large back-end systems with vendor products. 
+
+My previous Summer (2021), I interned at Sandia National Laboratories in a Corporate Web Design and Development Intern role. In this role I contributed to the development of Sandia's External Web UI while conforming to ADA Section 508 Accessibility Requirements.
 
 * 🌍  I'm based in Tempe Arizona
 * ✉️  You can contact me at [kristian.rascon@gmail.com](mailto:kristian.rascon@gmail.com)
