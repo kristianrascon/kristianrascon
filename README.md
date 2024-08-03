@@ -10,7 +10,7 @@ During Summer (2022), I interned at USAA in a Software Engineer Intern role. In 
 
 My previous Summer (2021), I interned at Sandia National Laboratories in a Corporate Web Design and Development Intern role. In this role I contributed to the development of Sandia's External Web UI while conforming to ADA Section 508 Accessibility Requirements.
 
-* 🌍  I'm based in Tempe Arizona
+* 🌍  I'm based in Plano, Texas
 * ✉️  You can contact me at [kristian.rascon@gmail.com](mailto:kristian.rascon@gmail.com)
 
 ### Skills
