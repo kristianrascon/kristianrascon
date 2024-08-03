@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kristian Rascon
 =======================================================================================================================================
 
-Software Engineer Interested in Entry Level Roles for Summer 2023
+Software Engineer Interested in Entry Level to Mid Level Roles 
 -----------------------------------------------------------------
 
-I am currently a senior at Arizona State University pursuing a degree in Computer Science with an expected graduation date of May 2023. 
+As a part of the Global Technology Analyst Program, I support the Authentication Hub Team under the Consumer, Business & Wealth Management Technology organization. I actively contribute to backend authentication services in support of onboarding customers from a merchant services platform acquisition. Additionally, I have had the opportunity to lead a team to an internal hackathon final as the lead developer for a Proof-of-concept system that enhances proprietary chatbot intelligence that is currently pending patent issue. Furthermore, I take ownership in being a lead point of contact for Workplace Excellence and regularly plan and execute employee events in the Plano office aimed at fostering team synergy.
 
-During this past Summer (2022), I interned at USAA in a Software Engineer Intern role. In this role I was able to gain valuable insights into the full development lifecycle in an agile environment and grow my knowledge in developing REST APIs utilizing Java Spring Boot, while integrating existing large back-end systems with vendor products. 
+During Summer (2022), I interned at USAA in a Software Engineer Intern role. In this role I was able to gain valuable insights into the full development lifecycle in an agile environment and grow my knowledge in developing REST APIs utilizing Java Spring Boot, while integrating existing large back-end systems with vendor products. 
 
 My previous Summer (2021), I interned at Sandia National Laboratories in a Corporate Web Design and Development Intern role. In this role I contributed to the development of Sandia's External Web UI while conforming to ADA Section 508 Accessibility Requirements.
 
